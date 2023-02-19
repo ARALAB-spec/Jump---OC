@@ -1,5 +1,5 @@
 r=require'robot'
-computer=require'computer'
+computer=require'computer' --исправил ошибку
 
 while true do
   while not r.up() do 
