@@ -1,6 +1,6 @@
 r=require'robot'
 computer=require'computer'
-
+--Hi!!!
 while true do
   while not r.up() do 
     computer.beep(20,20)
